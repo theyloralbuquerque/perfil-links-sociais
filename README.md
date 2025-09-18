@@ -29,4 +29,4 @@ cd social-links-profile-card
 # Abrir o arquivo HTML no navegador
 ```
 
-## Link do projeto online:[ 🔗 Acessar projeto online](https://perfil-links-sociais-rho.vercel.app/)
+## <br>Link do projeto online:[ 🔗 Acessar projeto online](https://perfil-links-sociais-rho.vercel.app/)</br>
